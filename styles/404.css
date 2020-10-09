@@ -1,0 +1,64 @@
+
+/* rem 1rem = 15,997 px */
+
+/* comenzamos con el header */
+
+body { background-image: url(../img/mosaico.png); background-position: center; font-family: 'Baloo Da 2', cursive; font-family: 'Roboto', sans-serif; color: #404146;}
+    
+.contenedorPrincipal { max-width: 1100px; margin: 0 auto; background-color: #f5f5f5; margin-top: 0; }
+
+/* área del logotipo*/
+
+.contLog { display: flex;}
+
+
+
+/* navegación usuario */
+
+
+
+.flexHeader { display: flex;}
+
+.elementoFlexHeader{ flex-basis: 50%;}
+
+.logotipo { max-height: 6rem; margin-top: .5rem; margin-left: 10rem;  }
+
+
+/* navegación header*/
+
+.navHeader { background: #404146; height: 3rem; border-top: .3rem #0376ab solid;}
+
+.ulHeader { width: 100%; margin: 0 0; padding: 0 0; display: flex; }
+
+.liHeader { flex-grow: 1; list-style: none; height: 3rem; text-align: center; }
+
+.enlaceHeader { text-decoration: none; color: white; height: 3rem; line-height: 3rem; display: block;}
+
+/* Efectos Hover */
+
+.enlaceHeader:hover {background-color: #0376ab; color: white;}
+
+
+/* error */
+
+section { min-height: calc(100vh - 3.888rem - 6.063rem);display: flex; flex-wrap: wrap; justify-content: center; align-items: center;}
+
+.contenedorError {flex-basis: 100%; display: flex; justify-content: center; align-items: center; max-width: 100%; }
+
+.error { margin: 0 2rem; margin-top: 3rem; margin-bottom: 3rem;   }
+
+.volver { background: #404146; color: white; padding: 1rem 1rem; border-radius: .8rem; font-size: .8rem; text-decoration: none;
+    text-transform: uppercase;  display: inline-block; margin-bottom: 3rem;}
+   
+/* Efectos Hover */
+    
+.volver:hover {background-color: #0376ab; color: white;}
+
+
+/* comenzamos con el footer */
+
+footer { background: #404146; height: 2rem; font-size: .7rem; line-height: 2rem; border-top: .3rem #0376ab solid;}
+.derechos { color: white; margin-left: 2rem; margin-top: 0; margin-bottom: 0;}
+
+
+/* comenzamos media querys */

@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="logotipo.svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 121.42999 101.57999"
+   height="10.158cm"
+   width="12.143cm">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath30">
+      <path
+         d="M 0,500 H 500 V 0 H 0 Z"
+         id="path28" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath106">
+      <path
+         d="M 0,500 H 500 V 0 H 0 Z"
+         id="path104" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath174">
+      <path
+         d="M 0,500 H 500 V 0 H 0 Z"
+         id="path172" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath250">
+      <path
+         d="M 0,500 H 500 V 0 H 0 Z"
+         id="path248" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath338">
+      <path
+         d="M 0,500 H 500 V 0 H 0 Z"
+         id="path336" />
+    </clipPath>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern344">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path342" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern352">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path350" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern360">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path358" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern368">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path366" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern376">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path374" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern384">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path382" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern392">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path390" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern400">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path398" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern408">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path406" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern416">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path414" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern422">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path420" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern430">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path428" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern438">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path436" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern446">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path444" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern454">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path452" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern460">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path458" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern468">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path466" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern476">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path474" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern484">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path482" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern492">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path490" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern500">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path498" />
+    </pattern>
+    <pattern
+       patternTransform="translate(-197.1035,776.4805)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="314.984"
+       height="314.984"
+       id="pattern508">
+      <path
+         d="M 314.984,0 0,0 l 0,314.984 314.984,0 0,-314.984 z"
+         style="fill:#1d262d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path506" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     units="cm"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="26"
+     inkscape:window-height="728"
+     inkscape:window-width="1260"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="cm"
+     inkscape:cy="469.80195"
+     inkscape:cx="311.57118"
+     inkscape:zoom="1.4"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
+    <g
+       transform="matrix(0.74191727,0,0,-0.74191728,0.36410891,101.5652)"
+       id="g20"
+       style="opacity:0.994"
+       inkscape:export-filename="C:\Users\Pechaneitor\Documents\Albeiro\DESARROLLO\zapatos store\img\logotipo.png"
+       inkscape:export-xdpi="95.5"
+       inkscape:export-ydpi="95.5">
+      <path
+         id="path22"
+         style="fill:#0376ab;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="M 0,0 H 168.174 V 33.164 L 73.744,50.081 Z" />
+    </g>
+    <g
+       transform="translate(-3.2127974,-71.815471)"
+       style="font-variant:normal;font-weight:800;font-stretch:normal;font-size:10.4673px;font-family:'Montserrat ExtraBold';-inkscape-font-specification:Montserrat-ExtraBold;writing-mode:lr-tb;opacity:0.994;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.741918"
+       id="text90"
+       aria-label="RUNNING SHOES">
+      <path
+         id="path929"
+         style="stroke-width:0.741918"
+         d="m 33.334773,162.11929 q 0,-0.28621 -0.117552,-0.49065 -0.117553,-0.20444 -0.403768,-0.32199 -0.199329,-0.0818 -0.4651,-0.0971 -0.265771,-0.0205 -0.618429,-0.0205 h -0.710428 v 2.04951 h 0.603097 q 0.470211,0 0.787092,-0.046 0.316881,-0.046 0.531542,-0.20955 0.20444,-0.15844 0.296438,-0.34755 0.09711,-0.19422 0.09711,-0.51621 z m 3.061481,5.27965 h -2.397052 l -2.075061,-2.7906 h -0.904645 v 2.7906 H 29.0671 v -7.61026 h 3.291475 q 0.67465,0 1.160194,0.0767 0.485544,0.0767 0.909755,0.33221 0.429323,0.25555 0.679762,0.66443 0.255549,0.40377 0.255549,1.01709 0,0.84331 -0.393546,1.37485 -0.388435,0.53154 -1.114195,0.8842 z" />
+      <path
+         id="path931"
+         style="stroke-width:0.741918"
+         d="m 43.477599,164.64412 q 0,1.41063 -0.858645,2.16195 -0.858646,0.75131 -2.529939,0.75131 -1.671292,0 -2.529938,-0.75131 -0.853535,-0.75132 -0.853535,-2.15684 v -4.86055 h 1.972841 v 4.74811 q 0,0.7922 0.332214,1.18064 0.332214,0.38843 1.078418,0.38843 0.735982,0 1.073307,-0.3731 0.342437,-0.3731 0.342437,-1.19597 v -4.74811 h 1.97284 z" />
+      <path
+         id="path933"
+         style="stroke-width:0.741918"
+         d="m 51.960424,167.39894 h -1.891065 l -3.230143,-5.22343 v 5.22343 h -1.799067 v -7.61026 h 2.345943 l 2.775265,4.35967 v -4.35967 h 1.799067 z" />
+      <path
+         id="path935"
+         style="stroke-width:0.741918"
+         d="m 60.397036,167.39894 h -1.891065 l -3.230144,-5.22343 v 5.22343 H 53.47676 v -7.61026 h 2.345943 l 2.775265,4.35967 v -4.35967 h 1.799068 z" />
+      <path
+         id="path937"
+         style="stroke-width:0.741918"
+         d="m 66.027723,167.39894 h -4.45678 v -1.3493 h 1.24708 v -4.91166 h -1.24708 v -1.3493 h 4.45678 v 1.3493 h -1.247081 v 4.91166 h 1.247081 z" />
+      <path
+         id="path939"
+         style="stroke-width:0.741918"
+         d="M 72.382055,167.39894 H 70.49099 l -3.230143,-5.22343 v 5.22343 H 65.46178 v -7.61026 h 2.345942 l 2.775266,4.35967 v -4.35967 h 1.799067 z" />
+      <path
+         id="path941"
+         style="stroke-width:0.741918"
+         d="m 80.629556,166.96451 q -0.511098,0.19933 -1.354411,0.39865 -0.843313,0.19422 -1.681515,0.19422 -1.942175,0 -3.041037,-1.05286 -1.098862,-1.05798 -1.098862,-2.91837 0,-1.77352 1.109084,-2.85705 1.109084,-1.08864 3.092147,-1.08864 0.751315,0 1.431076,0.138 0.679761,0.13289 1.512852,0.53665 v 1.78374 h -0.219772 q -0.143108,-0.10733 -0.419101,-0.30155 -0.275993,-0.19933 -0.531543,-0.33733 -0.296437,-0.16355 -0.695094,-0.2811 -0.393546,-0.11755 -0.838202,-0.11755 -0.52132,0 -0.945532,0.15333 -0.424212,0.15333 -0.761537,0.47021 -0.321992,0.30666 -0.511099,0.78198 -0.183995,0.47021 -0.183995,1.08864 0,1.26241 0.669539,1.93195 0.669539,0.66954 1.977952,0.66954 0.112441,0 0.245327,-0.005 0.137997,-0.005 0.250438,-0.0153 v -1.49241 h -1.517963 v -1.43619 h 3.511248 z" />
+      <path
+         id="path943"
+         style="stroke-width:0.741918"
+         d="m 91.096457,165.007 q 0,1.12442 -0.955755,1.82973 -0.950643,0.70021 -2.586159,0.70021 -0.945532,0 -1.650849,-0.16355 -0.700205,-0.16867 -1.313523,-0.42422 v -1.82462 h 0.214661 q 0.608208,0.48555 1.359523,0.74621 0.756426,0.26066 1.45152,0.26066 0.178885,0 0.470211,-0.0307 0.291326,-0.0307 0.475321,-0.10222 0.224884,-0.092 0.367992,-0.22999 0.148218,-0.138 0.148218,-0.40888 0,-0.25044 -0.214661,-0.42933 -0.209551,-0.18399 -0.61843,-0.2811 -0.429323,-0.10222 -0.909755,-0.18911 -0.475322,-0.092 -0.894423,-0.22999 -0.960865,-0.31177 -1.385077,-0.84331 -0.419101,-0.53666 -0.419101,-1.32886 0,-1.06309 0.950643,-1.73262 0.955755,-0.67465 2.453274,-0.67465 0.751315,0 1.482186,0.14821 0.735982,0.14311 1.272636,0.36288 v 1.75307 h -0.209551 q -0.459989,-0.36799 -1.129528,-0.61332 -0.664428,-0.25043 -1.359522,-0.25043 -0.245328,0 -0.490655,0.0358 -0.240216,0.0307 -0.4651,0.12267 -0.199328,0.0767 -0.342436,0.2351 -0.143107,0.15333 -0.143107,0.35266 0,0.30155 0.229994,0.4651 0.229994,0.15844 0.868868,0.29133 0.419101,0.0869 0.802425,0.16866 0.388434,0.0818 0.83309,0.22488 0.873979,0.28622 1.287969,0.78198 0.419101,0.49066 0.419101,1.27775 z" />
+      <path
+         id="path945"
+         style="stroke-width:0.741918"
+         d="m 98.599636,167.39894 h -1.962619 v -3.35281 h -2.897929 v 3.35281 h -1.962619 v -7.61026 h 1.962619 v 2.78549 h 2.897929 v -2.78549 h 1.962619 z" />
+      <path
+         id="path947"
+         style="stroke-width:0.741918"
+         d="m 107.61381,163.59637 q 0,1.81951 -1.04264,2.89282 -1.04264,1.06819 -2.8826,1.06819 -1.83484,0 -2.87749,-1.06819 -1.042636,-1.07331 -1.042636,-2.89282 0,-1.83485 1.042636,-2.89793 1.04265,-1.0682 2.87749,-1.0682 1.82973,0 2.87749,1.0682 1.04775,1.06308 1.04775,2.89793 z m -2.60149,1.92684 q 0.28621,-0.34755 0.42421,-0.81776 0.13799,-0.47532 0.13799,-1.11419 0,-0.68488 -0.15844,-1.16531 -0.15844,-0.48043 -0.41399,-0.77687 -0.26066,-0.30666 -0.60309,-0.44465 -0.33733,-0.138 -0.70532,-0.138 -0.3731,0 -0.70531,0.13288 -0.32711,0.13289 -0.6031,0.43955 -0.25555,0.28621 -0.4191,0.7922 -0.15844,0.50088 -0.15844,1.16531 0,0.67976 0.15333,1.16019 0.15844,0.47532 0.41399,0.77687 0.25555,0.30155 0.59798,0.44466 0.34244,0.1431 0.72065,0.1431 0.37821,0 0.72065,-0.1431 0.34244,-0.14822 0.59799,-0.45488 z" />
+      <path
+         id="path949"
+         style="stroke-width:0.741918"
+         d="m 114.57293,167.39894 h -5.50453 v -7.61026 h 5.50453 v 1.47197 h -3.55213 v 1.31352 h 3.29658 v 1.47196 h -3.29658 v 1.88085 h 3.55213 z" />
+      <path
+         id="path951"
+         style="stroke-width:0.741918"
+         d="m 122.19469,165.007 q 0,1.12442 -0.95575,1.82973 -0.95065,0.70021 -2.58616,0.70021 -0.94553,0 -1.65085,-0.16355 -0.7002,-0.16867 -1.31352,-0.42422 v -1.82462 h 0.21466 q 0.60821,0.48555 1.35952,0.74621 0.75643,0.26066 1.45152,0.26066 0.17889,0 0.47021,-0.0307 0.29133,-0.0307 0.47532,-0.10222 0.22489,-0.092 0.36799,-0.22999 0.14822,-0.138 0.14822,-0.40888 0,-0.25044 -0.21466,-0.42933 -0.20955,-0.18399 -0.61843,-0.2811 -0.42932,-0.10222 -0.90975,-0.18911 -0.47532,-0.092 -0.89443,-0.22999 -0.96086,-0.31177 -1.38507,-0.84331 -0.4191,-0.53666 -0.4191,-1.32886 0,-1.06309 0.95064,-1.73262 0.95575,-0.67465 2.45327,-0.67465 0.75132,0 1.48219,0.14821 0.73598,0.14311 1.27263,0.36288 v 1.75307 h -0.20955 q -0.45998,-0.36799 -1.12952,-0.61332 -0.66443,-0.25043 -1.35953,-0.25043 -0.24532,0 -0.49065,0.0358 -0.24022,0.0307 -0.4651,0.12267 -0.19933,0.0767 -0.34244,0.2351 -0.1431,0.15333 -0.1431,0.35266 0,0.30155 0.22999,0.4651 0.22999,0.15844 0.86887,0.29133 0.4191,0.0869 0.80242,0.16866 0.38844,0.0818 0.83309,0.22488 0.87398,0.28622 1.28797,0.78198 0.4191,0.49066 0.4191,1.27775 z" />
+    </g>
+    <g
+       transform="matrix(0.74191727,0,0,-0.74191728,20.18532,35.378699)"
+       id="g260"
+       style="opacity:0.994"
+       inkscape:export-filename="C:\Users\Pechaneitor\Documents\Albeiro\DESARROLLO\zapatos store\img\logotipo.png"
+       inkscape:export-xdpi="95.5"
+       inkscape:export-ydpi="95.5">
+      <path
+         id="path262"
+         style="fill:#404146;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 c 0,0 -3.059,-3.878 -2.622,-4.69 0.438,-0.813 5.688,-7.188 7.375,-7.625 1.688,-0.438 4.438,3.75 4.438,3.75 z" />
+    </g>
+    <g
+       transform="matrix(0.74191727,0,0,-0.74191728,27.885235,44.293349)"
+       id="g264"
+       style="opacity:0.994"
+       inkscape:export-filename="C:\Users\Pechaneitor\Documents\Albeiro\DESARROLLO\zapatos store\img\logotipo.png"
+       inkscape:export-xdpi="95.5"
+       inkscape:export-ydpi="95.5">
+      <path
+         id="path266"
+         style="fill:#404146;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 c 0,0 -2.359,-4.339 -1.791,-5.065 0.568,-0.728 6.82,-6.123 8.558,-6.27 1.737,-0.145 3.739,4.446 3.739,4.446 z" />
+    </g>
+    <g
+       transform="matrix(0.74191727,0,0,-0.74191728,37.724689,51.214769)"
+       id="g268"
+       style="opacity:0.994"
+       inkscape:export-filename="C:\Users\Pechaneitor\Documents\Albeiro\DESARROLLO\zapatos store\img\logotipo.png"
+       inkscape:export-xdpi="95.5"
+       inkscape:export-ydpi="95.5">
+      <path
+         id="path270"
+         style="fill:#404146;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 c 0,0 -2.359,-4.339 -1.791,-5.065 0.568,-0.728 6.82,-6.123 8.558,-6.27 1.737,-0.145 3.739,4.446 3.739,4.446 z" />
+    </g>
+    <g
+       transform="matrix(0.74191727,0,0,-0.74191728,125.0735,80.816819)"
+       id="g272"
+       style="opacity:0.994"
+       inkscape:export-filename="C:\Users\Pechaneitor\Documents\Albeiro\DESARROLLO\zapatos store\img\logotipo.png"
+       inkscape:export-xdpi="95.5"
+       inkscape:export-ydpi="95.5">
+      <path
+         id="path274"
+         style="fill:#404146;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 c -0.12,-0.63 -0.28,-1.24 -0.49,-1.81 l -5.98,-3.2 c -8,-1.87 -22.56,-2.06 -35.49,-1.78 -6.3,0.14 -12.27,1.601 -17.76,3.78 -0.32,0.12 -0.64,0.25 -0.95,0.38 -2.62,1.09 -5.14,2.33 -7.51,3.66 -1.17,0.66 -2.3,1.33 -3.4,2.02 -2.59,1.62 -4.99,3.32 -7.17,4.971 -1.29,0.989 -2.5,1.959 -3.63,2.889 -2.77,2.31 -5.04,4.401 -6.71,5.96 -0.95,0.88 -1.88,1.73 -2.78,2.54 -0.91,0.83 -1.8,1.63 -2.67,2.401 -3.61,3.149 -6.83,5.769 -9.71,7.969 -12.67,9.68 -18.85,11.18 -23.3,14.93 -1.97,1.65 -14.71,10.95 -15,13.92 -0.04,0.391 0.16,0.96 0.54,1.63 1.52,2.65 5.87,7 8.87,9.84 1.75,1.671 3.04,2.82 3.04,2.82 0,0.06 0.01,0.12 0.03,0.2 0.3,1.22 2.65,4.04 5.93,7.47 1.36,1.42 2.88,2.95 4.49,4.52 2.6,2.55 5.43,5.21 8.13,7.661 8.56,7.79 5.62,10.119 7.94,13.909 2.32,3.77 5.48,1.8 6.03,1.33 0,0 3.64,-1.739 3.25,-8.37 -0.56,-9.53 2.36,-13.82 7.4,-18.18 1.9,-1.64 4.8,-2.01 7.66,-1.83 0,0 0.1,0.01 0.3,0.02 1.29,0.1 2.57,0.31 3.74,0.55 0,0 0.02,0 0.04,0.01 0.16,0.03 0.31,0.061 0.46,0.101 0.07,0.019 0.15,0.029 0.24,0.049 2.66,0.61 4.62,1.36 4.62,1.36 0,0 11.31,3.62 13.65,0.96 0.66,-0.76 1.28,-5.81 2.6,-12.79 0.26,-1.39 0.55,-2.86 0.87,-4.39 0.44,-2.09 0.95,-4.29 1.53,-6.56 0.37,-1.4 0.76,-2.82 1.17,-4.26 0.6,-2.02 1.26,-4.06 2,-6.1 0.5,-1.37 1.03,-2.74 1.6,-4.1 0.78,-1.85 1.63,-3.68 2.56,-5.459 0.68,-1.321 1.41,-2.611 2.19,-3.861 1.65,-2.68 3.52,-5.18 5.63,-7.41 l 0.05,-0.05 c 0.4,-0.42 0.81,-0.83 1.23,-1.23 l 0.06,-0.06 c 1.18,-1.13 2.43,-2.17 3.75,-3.11 0,0 0,-0.01 0.01,-0.01 3.46,-3.42 26.2,-3.61 29.32,-10.11 0.54,-1.14 1.33,-3.77 1.7,-6.74 C 0.35,4.33 0.4,2.04 0,0" />
+    </g>
+    <g
+       transform="matrix(0.74191727,0,0,-0.74191728,47.995941,58.346289)"
+       id="g276"
+       style="opacity:0.994"
+       inkscape:export-filename="C:\Users\Pechaneitor\Documents\Albeiro\DESARROLLO\zapatos store\img\logotipo.png"
+       inkscape:export-xdpi="95.5"
+       inkscape:export-ydpi="95.5">
+      <path
+         id="path278"
+         style="fill:#404146;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 c 0,0 -2.893,-4.003 -2.422,-4.796 0.471,-0.794 5.985,-6.942 7.689,-7.309 1.705,-0.366 4.276,3.933 4.276,3.933 z" />
+    </g>
+    <g
+       transform="matrix(0.74191727,0,0,-0.74191728,57.192377,65.957479)"
+       id="g280"
+       style="opacity:0.994"
+       inkscape:export-filename="C:\Users\Pechaneitor\Documents\Albeiro\DESARROLLO\zapatos store\img\logotipo.png"
+       inkscape:export-xdpi="95.5"
+       inkscape:export-ydpi="95.5">
+      <path
+         id="path282"
+         style="fill:#404146;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 c 0,0 -2.636,-4.177 -2.117,-4.938 0.52,-0.763 6.408,-6.554 8.133,-6.814 1.723,-0.258 4.021,4.194 4.021,4.194 z" />
+    </g>
+    <g
+       transform="matrix(0.74191727,0,0,-0.74191728,66.909416,74.313469)"
+       id="g284"
+       style="opacity:0.994"
+       inkscape:export-filename="C:\Users\Pechaneitor\Documents\Albeiro\DESARROLLO\zapatos store\img\logotipo.png"
+       inkscape:export-xdpi="95.5"
+       inkscape:export-ydpi="95.5">
+      <path
+         id="path286"
+         style="fill:#404146;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 c 0,0 -2.172,-4.437 -1.574,-5.138 0.599,-0.702 7.075,-5.827 8.817,-5.899 1.742,-0.071 3.548,4.6 3.548,4.6 z" />
+    </g>
+    <g
+       transform="matrix(0.74191727,0,0,-0.74191728,90.681557,56.107489)"
+       id="g288"
+       style="opacity:0.994"
+       inkscape:export-filename="C:\Users\Pechaneitor\Documents\Albeiro\DESARROLLO\zapatos store\img\logotipo.png"
+       inkscape:export-xdpi="95.5"
+       inkscape:export-ydpi="95.5">
+      <path
+         id="path290"
+         style="fill:#404146;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 c -0.796,-0.313 -1.802,0.348 -2.246,1.477 -0.446,1.129 -0.163,2.299 0.633,2.613 l 5.76,2.272 C 4.942,6.676 5.949,6.016 6.394,4.887 6.84,3.756 6.556,2.587 5.76,2.272 Z" />
+    </g>
+    <g
+       transform="matrix(0.74191727,0,0,-0.74191728,90.681557,56.107489)"
+       id="g292"
+       style="opacity:0.994"
+       inkscape:export-filename="C:\Users\Pechaneitor\Documents\Albeiro\DESARROLLO\zapatos store\img\logotipo.png"
+       inkscape:export-xdpi="95.5"
+       inkscape:export-ydpi="95.5">
+      <path
+         id="path294"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="m 0,0 c -0.796,-0.313 -1.802,0.348 -2.246,1.477 -0.446,1.129 -0.163,2.299 0.633,2.613 l 5.76,2.272 C 4.942,6.676 5.949,6.016 6.394,4.887 6.84,3.756 6.556,2.587 5.76,2.272 Z" />
+    </g>
+    <g
+       transform="matrix(0.74191727,0,0,-0.74191728,87.478037,49.053489)"
+       id="g296"
+       style="opacity:0.994"
+       inkscape:export-filename="C:\Users\Pechaneitor\Documents\Albeiro\DESARROLLO\zapatos store\img\logotipo.png"
+       inkscape:export-xdpi="95.5"
+       inkscape:export-ydpi="95.5">
+      <path
+         id="path298"
+         style="fill:#404146;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 c -0.796,-0.312 -1.801,0.348 -2.247,1.477 -0.445,1.129 -0.161,2.299 0.635,2.614 l 5.76,2.271 C 4.943,6.677 5.949,6.016 6.395,4.886 6.84,3.757 6.556,2.588 5.761,2.272 Z" />
+    </g>
+    <g
+       transform="matrix(0.74191727,0,0,-0.74191728,87.478037,49.053489)"
+       id="g300"
+       style="opacity:0.994"
+       inkscape:export-filename="C:\Users\Pechaneitor\Documents\Albeiro\DESARROLLO\zapatos store\img\logotipo.png"
+       inkscape:export-xdpi="95.5"
+       inkscape:export-ydpi="95.5">
+      <path
+         id="path302"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="m 0,0 c -0.796,-0.312 -1.801,0.348 -2.247,1.477 -0.445,1.129 -0.161,2.299 0.635,2.614 l 5.76,2.271 C 4.943,6.677 5.949,6.016 6.395,4.886 6.84,3.757 6.556,2.588 5.761,2.272 Z" />
+    </g>
+    <g
+       transform="matrix(0.74191727,0,0,-0.74191728,85.010347,41.414789)"
+       id="g304"
+       style="opacity:0.994"
+       inkscape:export-filename="C:\Users\Pechaneitor\Documents\Albeiro\DESARROLLO\zapatos store\img\logotipo.png"
+       inkscape:export-xdpi="95.5"
+       inkscape:export-ydpi="95.5">
+      <path
+         id="path306"
+         style="fill:#404146;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 c -0.795,-0.313 -1.8,0.348 -2.247,1.477 -0.446,1.13 -0.161,2.299 0.635,2.613 L 4.149,6.363 C 4.943,6.676 5.95,6.017 6.395,4.887 6.841,3.757 6.556,2.588 5.762,2.272 Z" />
+    </g>
+    <g
+       transform="matrix(0.74191727,0,0,-0.74191728,85.010347,41.414789)"
+       id="g308"
+       style="opacity:0.994"
+       inkscape:export-filename="C:\Users\Pechaneitor\Documents\Albeiro\DESARROLLO\zapatos store\img\logotipo.png"
+       inkscape:export-xdpi="95.5"
+       inkscape:export-ydpi="95.5">
+      <path
+         id="path310"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="m 0,0 c -0.795,-0.313 -1.8,0.348 -2.247,1.477 -0.446,1.13 -0.161,2.299 0.635,2.613 L 4.149,6.363 C 4.943,6.676 5.95,6.017 6.395,4.887 6.841,3.757 6.556,2.588 5.762,2.272 Z" />
+    </g>
+    <g
+       transform="matrix(0.74191727,0,0,-0.74191728,82.640736,33.529029)"
+       id="g312"
+       style="opacity:0.994"
+       inkscape:export-filename="C:\Users\Pechaneitor\Documents\Albeiro\DESARROLLO\zapatos store\img\logotipo.png"
+       inkscape:export-xdpi="95.5"
+       inkscape:export-ydpi="95.5">
+      <path
+         id="path314"
+         style="fill:#404146;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 c -0.795,-0.313 -1.802,0.349 -2.247,1.478 -0.445,1.13 -0.161,2.297 0.634,2.612 l 5.76,2.274 C 4.944,6.677 5.948,6.017 6.395,4.887 6.841,3.758 6.556,2.589 5.762,2.273 Z" />
+    </g>
+    <g
+       transform="matrix(0.74191727,0,0,-0.74191728,82.640736,33.529029)"
+       id="g316"
+       style="opacity:0.994"
+       inkscape:export-filename="C:\Users\Pechaneitor\Documents\Albeiro\DESARROLLO\zapatos store\img\logotipo.png"
+       inkscape:export-xdpi="95.5"
+       inkscape:export-ydpi="95.5">
+      <path
+         id="path318"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="m 0,0 c -0.795,-0.313 -1.802,0.349 -2.247,1.478 -0.445,1.13 -0.161,2.297 0.634,2.612 l 5.76,2.274 C 4.944,6.677 5.948,6.017 6.395,4.887 6.841,3.758 6.556,2.589 5.762,2.273 Z" />
+    </g>
+    <g
+       transform="matrix(0.74191727,0,0,-0.74191728,125.0735,80.816819)"
+       id="g320"
+       style="opacity:0.994"
+       inkscape:export-filename="C:\Users\Pechaneitor\Documents\Albeiro\DESARROLLO\zapatos store\img\logotipo.png"
+       inkscape:export-xdpi="95.5"
+       inkscape:export-ydpi="95.5">
+      <path
+         id="path322"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 c -0.12,-0.63 -0.28,-1.24 -0.49,-1.81 -17.72,0.94 -36.89,4.66 -51.1,9.871 -5.49,2.009 -10.24,4.239 -13.87,6.619 -1.65,1.08 -3.07,2.19 -4.23,3.32 -6.18,6.07 -13.03,11.14 -20.43,16.26 -2.94,2.04 -5.97,4.08 -9.08,6.2 -3.86,2.62 -7.84,5.37 -11.93,8.351 -10.7,7.799 -17.77,15.869 -21.16,20.189 -0.32,0.4 -0.6,0.771 -0.85,1.1 -1.01,1.32 -1.51,2.08 -1.51,2.08 l 0.72,6.29 c 0,0 1.46,-2.14 3.86,-5.35 0.12,-0.16 0.24,-0.32 0.37,-0.49 4.53,-6 12.06,-15.31 19.49,-21.53 5.12,-4.28 6.87,-5.32 10.24,-7.65 2.17,-1.5 14.09,2.22 18.89,-1.52 4.89,-3.81 2.38,-15.61 13.14,-23.84 0.8,-0.61 1.62,-1.2 2.47,-1.77 4.15,-2.81 8.85,-5.15 13.89,-7.1 C -35.41,2.94 -15.81,0.68 0,0" />
+    </g>
+    <g
+       transform="matrix(0.74191727,0,0,-0.74191728,69.280434,21.314903)"
+       id="g324"
+       style="opacity:0.994"
+       inkscape:export-filename="C:\Users\Pechaneitor\Documents\Albeiro\DESARROLLO\zapatos store\img\logotipo.png"
+       inkscape:export-xdpi="95.5"
+       inkscape:export-ydpi="95.5">
+      <path
+         id="path326"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 c 0,0 6.955,1.979 8.455,-4.646 1.5,-6.625 9.125,-43.485 15.375,-46.993 6.25,-3.507 15.334,-0.809 15.334,-0.809 l 1.339,-1.346 c 0,0 -14.798,-5.852 -21.173,1.023 C 12.955,-45.896 8.136,-7.293 4.068,-3.646 0,0 -4.042,-0.567 -4.042,-0.567 Z" />
+    </g>
+  </g>
+</svg>
